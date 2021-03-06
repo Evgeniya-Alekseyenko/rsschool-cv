@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #F5F7FA;
+}
+h2 {
+    font-style: normal;
+    font-size: medium;
+}
+.main-section {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
