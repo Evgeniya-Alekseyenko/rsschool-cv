@@ -1,0 +1,28 @@
+body {
+    /* поменяла шрифт */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F5F7FA;
+}
+.wrapper {
+    background-color: #fff;
+    /* горизонтальное центрирование на странице */
+    margin: auto;  
+    width: 800px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    /* поменяла отступы */
+     padding: 20px 10px 20px 10px;
+}
+.header {
+    margin: 0 auto;
+    font-style: normal;
+  }
+h2 {
+    font-style: normal;
+}
+.info {
+    margin-top: 50px;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
